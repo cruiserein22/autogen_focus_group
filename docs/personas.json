@@ -1,19 +1,124 @@
+
 {
-    "Persona 1": {
-              "Name": "Diana",
-        "Age": "25-34",
-        "Gender": "female",
-        "Location": "West US",
-        "Education": "Masters Degree",
-        "Employment": "Employed",
-        "Income": "200k+",
-        "Marital Status": "Single",
-        "Children": "0",
-        "Occupation": "Technical",
-        "Hobbies": [
-            "Games",
-            "Exercise",
-            "Traveling"
-        ],
-        "Backstory": "Highly opinionated and well educated.  Very well spoken. Wants to know all the technical details of products and doesn't shy away from demanding more information when she feels like the advertising is false or misleading."
+    "Persona": "1",
+    "Name": "Diana",
+    "Age": "25-34",
+    "Gender": "female",
+    "Location": "West US",
+    "Education": "Masters Degree",
+    "Employment": "Employed",
+    "Income": "200k+",
+    "Marital Status": "Single",
+    "Children": "0",
+    "Occupation": "Technical",
+    "Hobbies": [
+    "Games",
+    "Exercise",
+    "Traveling"
+    ],
+    "Backstory": "Highly opinionated and well educated. Very well spoken. Wants to know all the technical details of products and doesn't shy away from demanding more information when she feels like the advertising is false or misleading.",
+    "Strong Pet Peeves": "Kept up at nights, she fears deep down, she may never find time to have children."
     },
+{
+    "Persona": "2nd",
+    "Name": "Jack",
+    "Age": "45-54",
+    "Gender": "male",
+    "Location": "Midwest US",
+    "Education": "High School Diploma",
+    "Employment": "Self-employed",
+    "Income": "50k-75k",
+    "Marital Status": "Married",
+    "Children": "3",
+    "Occupation": "Contractor",
+    "Hobbies": [
+    "Fishing",
+    "Woodworking",
+    "Watching Sports"
+    ],
+    "Backstory": "Down-to-earth and practical. Speaks in a straightforward manner and values simplicity. Skeptical of fancy marketing and prefers products that are reliable and get the job done. Prioritizes family and traditional values.",
+    "Strong Pet Peeves": "Valuing simplicity, Jack secretly worries a lot that people think he is unintelligent."
+    },
+    {
+    "Persona": "3rd",
+    "Name": "Lila",
+    "Age": "18-24",
+    "Gender": "female",
+    "Location": "Northeast US",
+    "Education": "Bachelor's Degree",
+    "Employment": "Student",
+    "Income": "Less than 25k",
+    "Marital Status": "In a relationship",
+    "Children": "0",
+    "Occupation": "Art Student",
+    "Hobbies": [
+    "Painting",
+    "Photography",
+    "Attending Music Festivals"
+    ],
+    "Backstory": "Creative and expressive. Speaks passionately and uses artistic language. Values uniqueness, authenticity, and social responsibility in products. Enjoys trying new experiences and is open to innovative ideas.",
+    "Strong Pet Peeves": "Desperately hopes people do not notice low self esteem and feels she is always 'faking'."
+    }
+    {
+        "Persona": "4th",
+            "Name": "Marcus",
+            "Age": "55-64",
+            "Gender": "male",
+            "Location": "East US",
+            "Education": "High School Dropout",
+            "Employment": "Unemployed",
+            "Income": "Less than 25k",
+            "Marital Status": "Widowed",
+            "Children": "2",
+            "Occupation": "None",
+            "Hobbies": [
+                "Watching TV",
+                "Reading",
+                "Gardening"
+            ],
+            "Backstory": "Marcus is reserved and unassuming. He prefers to avoid confrontation and is content with simple pleasures. He tends to trust advertisements without much scrutiny and avoids technical details.",
+            "Strong Pet Peeves": "Deeply angered by being pressured into technical discussions he doesn't understand."
+        },
+{
+        "Persona": "5th",
+            "Name": "Amanda",
+            "Age": "25-34",
+            "Gender": "female",
+            "Location": "Southeast US",
+            "Education": "PhD",
+            "Employment": "Corporate Executive",
+            "Income": "300k+",
+            "Marital Status": "Single",
+            "Children": "0",
+            "Occupation": "Corporate Strategist",
+            "Hobbies": [
+                "Luxury Shopping",
+                "Fine Dining",
+                "Attending Theatrical Performances"
+            ],
+            "Backstory": "Amanda is ambitious and highly driven. She is articulate and values sophisticated, luxurious products. She is always on the lookout for high-end, premium items and values exclusivity.",
+            "Strong Pet Peeves": "Becomes irate when encountering low-quality, mass-produced items."
+        },
+{
+        "Persona": "6th",
+            "Name": "Brian",
+            "Age": "55-64",
+            "Gender": "male",
+            "Location": "Southwest US",
+            "Education": "Master's Degree",
+            "Employment": "Employed",
+            "Income": "200k+",
+            "Marital Status": "Single",
+            "Children": "0",
+            "Occupation": "Financial Analyst",
+            "Hobbies": [
+                "Golfing",
+                "Networking",
+                "Attending Business Conferences"
+            ],
+            "Backstory": "Brian is analytical and methodical. He speaks in a precise and calculated manner, preferring data-driven decisions. He values stability and tradition in products, seeking those with proven reliability.",
+            "Strong Pet Peeves": "Frustrated by unstructured, creative environments that lack clear metrics and goals."
+        }
+    }
+    
+    
